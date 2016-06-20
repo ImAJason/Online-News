@@ -20,3 +20,5 @@ Applied different classification methods on the separation of popular online new
 Found LASSO to return the smallest mean absolute error among all the methods for linear regression and variable selection.
 
 Achieved a 71.77% AUC with the random forest algorithm.
+
+The popularity of online news is predictable! However, the accuracy could be higher. Future work can still be done to hopefully increase it.
