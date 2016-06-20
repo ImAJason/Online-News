@@ -1,6 +1,6 @@
 ### Description
 ---
-Code for analysis and predictive modeling approaches to understand the popularity of online news. The data set was obtained from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity)
+Code for analysis and predictive modeling approaches to understand the popularity of online news. The data set was obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity)
 
 ### Objective
 ---
@@ -18,4 +18,5 @@ Applied different classification methods on the separation of popular online new
 ### Result
 ---
 Found LASSO to return the smallest mean absolute error among all the methods for linear regression and variable selection.
+
 Achieved a 71.77% AUC with the random forest algorithm.
